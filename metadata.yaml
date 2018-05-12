@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35892'
     url: http://www.gutenberg.org/2009/agents/35892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45082#The-Daisy-or-Cautionary-Stories-in-Verse.Adapted-to-the-Ideas-of-Children-from-Four-to-Eight-_
 gutenberg_issued: '2014-03-08'
 gutenberg_type: Text
 identifiers:
