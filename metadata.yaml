@@ -1,0 +1,29 @@
+_repo: The-Daisy-or-Cautionary-Stories-in-Verse.Adapted-to-the-Ideas-of-Children-from-Four-to-Eight-__45082
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45082-h/images/cover-image1.jpg
+creator:
+  author:
+    agent_name: Turner, Mrs. (Elizabeth)
+    alias: Turner, Elizabeth
+    deathdate: 1846
+    gutenberg_agent_id: '35892'
+    url: http://www.gutenberg.org/2009/agents/35892
+description: ''
+gutenberg_issued: '2014-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry, English'
+title: 'The Daisy, or, Cautionary Stories in Verse.
+
+  Adapted to the Ideas of Children from Four to Eight Years Old.'
+url: http://www.gutenberg.org/ebooks/45082
